@@ -7,3 +7,6 @@ Git is free software distributed under the GPL.
 我是中国人
 
 Git is a distributed version control system.
+
+
+Git tracks changes.
